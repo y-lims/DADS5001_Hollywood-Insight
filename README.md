@@ -39,7 +39,7 @@
 
 ในขณะที่นักแสดงบางกลุ่ม มีค่าที่โดดขึ้นมาแตกต่างจากผู้อื่น จากการแบ่งกลุ่มโดยใช้ KMeans Clustering พบว่า สามารถจัดกลุ่มนักแสดงได้เป็น 3 กลุ่มใหญ่ๆ 
 
-![fig3 1_KMeans_Clustering](![image](https://github.com/y-lims/DADS5001_Hollywood_Insight/assets/104209335/2f2d3dc7-4648-4728-bf6f-1de2762c1629))
+![image](https://github.com/y-lims/DADS5001_Hollywood_Insight/assets/104209335/2f2d3dc7-4648-4728-bf6f-1de2762c1629)
 
 - ทางด้านบนขวา จะเป็นกลุ่มนักแสดงที่`เล่นหนังได้เยอะและสามารถสร้างรายได้ได้มาก` เช่น `Samuel L. Jackson` (หรือที่เป็นที่รู้จักจากการแสดงเป็น Nick Fury ในเรื่อง Avengers) ซึ่งส่วนใหญ่มักร่วมเล่นในบทบาทนักแสดงสมทบ, เช่นเดียวกันกับ `Scarlett Johansson` (ที่มักเป็นที่รู้จักจากบทบาท Black Widow ในการแสดงนำร่วมในเรื่อง Avengers) , หรือ `Chis Patt` (Starlord จากเรื่อง Guardian of the galaxy) ที่สามารถสร้างรายได้จากการรับบทบาทนักแสดงนำได้เป็นอย่างดี เป็นต้น
 
