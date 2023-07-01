@@ -1,4 +1,4 @@
-# DADS5001_Hollywood Insight
+# Hollywood Insight
 
 ## Movie Industry
 ทุกคนเคยสงสัยกันไหมว่า วงการภาพยนตร์มันมีความเป็นมายังไง ?? 
